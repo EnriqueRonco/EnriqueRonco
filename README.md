@@ -16,4 +16,5 @@ Hello there, I am Enrique<br>I'm a Computer Science student at University of Sal
 
 - 🛢 &nbsp;
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
